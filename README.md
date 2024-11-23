@@ -1,1 +1,1 @@
-# coinflipgame
+# CoinFlip Game
